@@ -7,7 +7,7 @@ Hi there, I'm Jonathas Moraes 👋
 I'm a iOS Developer 📱
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing Apps. I love to help other developers to reach their goals and solve their issues.
 
 ### 🤝 Connect with me:
 
@@ -18,7 +18,10 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- Restaurant Recommendation App (MERN)
+- [Itaú](https://www.itau.com.br/)'s iOS app "Itaú Empresas"
+- [Cia Athletica](https://www.ciaathletica.com.br/)'s iOS app "CiaOn"
+- [SPC Brasil](https://www.spcbrasil.org.br/)'s iOS app "SPC Consumidor"
+- [Universal Church](https://www.universal.org/)'s internal iOS apps
 
 ## 🌱 I'm currently learning
 
