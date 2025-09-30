@@ -4,7 +4,7 @@ Hi there, I'm Jonathas Moraes 👋
 </h3>
 
 <h2 align="center">
-I'm a iOS Developer 📱
+I'm an iOS Developer 📱
 </h2> 
 
 I love the entire process of developing Apps. I love to help other developers to reach their goals and solve their issues.
