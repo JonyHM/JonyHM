@@ -20,12 +20,12 @@ I love the entire process of developing Apps. I love to help other developers to
 
 - [Itaú](https://www.itau.com.br/)'s iOS app "Itaú Empresas"
 - [Cia Athletica](https://www.ciaathletica.com.br/)'s iOS app "CiaOn"
-- [Universal Church](https://www.universal.org/)'s internal iOS apps
 
 ## I also worked on
 
 - [SPC Brasil](https://www.spcbrasil.org.br/)'s iOS app "SPC Consumidor"
 - [Claro](https://apps.apple.com/br/app/claro-flex/id1319873388)'s iOS app "Claro Flex"
+- [Universal Church](https://www.universal.org/)'s internal iOS apps
 
 ## 🌱 I'm currently learning
 
